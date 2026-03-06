@@ -1,4 +1,4 @@
-# Hi, I'm Venu Gopal Martha 👋
+# Hi, I'm Venu Martha 👋
 
 ### Senior Software Engineer | AWS · Java | Distributed Systems · Microservices · Backend Infrastructure · Cloud-Native Development · Real-Time Data Processing
 
