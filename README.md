@@ -100,4 +100,3 @@ I don't just contribute to systems — I **own them end-to-end**, from architect
 
 ---
 
-*Open to Senior & Staff Engineer opportunities in backend, cloud, and distributed systems.*
