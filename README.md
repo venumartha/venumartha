@@ -85,13 +85,6 @@ I don't just contribute to systems — I **own them end-to-end**, from architect
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=venumartha&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Venu's GitHub Stats" />
-</p>
-
----
 
 ## 🏅 Certifications
 
