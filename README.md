@@ -1,12 +1,12 @@
 # Hi, I'm Venu Martha 👋
 
-### Senior Software Engineer | AWS · Java | Distributed Systems · Microservices · Backend Infrastructure · Cloud-Native Development · Real-Time Data Processing
+### Staff Software Engineer | AWS · Java | Distributed Systems · Microservices · Backend Infrastructure · Cloud-Native Development · Real-Time Data Processing
 
 ---
 
 ## 🚀 About Me
 
-I'm a Senior Software Engineer based in **San Diego, CA** with **7+ years** of experience architecting and building high-performance, distributed backend systems for **healthcare** and **fintech** industries.
+I'm a Staff Software Engineer based in **San Diego, CA** with **7+ years** of experience architecting and building high-performance, distributed backend systems for **healthcare** and **fintech** industries.
 
 I don't just contribute to systems — I **own them end-to-end**, from architecture decisions to production delivery.
 
